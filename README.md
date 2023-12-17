@@ -2,11 +2,11 @@
 
 Welcome to H2020 SwiftV2X Open Access Space. The following is a list of our publications:
 
-- [A. Kose, C. H. Foh, H. Lee, K. Moessner, "Profiling Vehicles for Improved Small Cell Beam-Vehicle Pairing Using Multi-Armed Bandit,"
+- [A. Kose, C. H. Foh, H. Lee and K. Moessner, "Profiling Vehicles for Improved Small Cell Beam-Vehicle Pairing Using Multi-Armed Bandit,"
   International Conference on Information and Communication Technology Convergence (ICTC),
   October 2021.](https://openresearch.surrey.ac.uk/esploro/outputs/99602621202346#file-0)
 
-- [A. M. Cassillas, A. Kose, H. Lee, C. H. Foh, C. Y. Leow, "Contextual Multi-Armed Bandit based Beam Allocation in mmWave V2X Communication
+- [A. M. Cassillas, A. Kose, H. Lee, C. H. Foh and C. Y. Leow, "Contextual Multi-Armed Bandit based Beam Allocation in mmWave V2X Communication
   under Blockage," IEEE Conference on Vehicular Technology (VTC) Spring,
   June 2023.](https://github.com/cfoh/h2020-swiftv2x/blob/main/VTC2023-CMAB-BeamAllocation.pdf)
 
