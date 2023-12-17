@@ -18,3 +18,7 @@ Welcome to H2020 SwiftV2X Open Access Space. The following is a list of our publ
 - F. S. Woon and C. Y. Leow, "Intelligent Reflecting Surfaces Aided Millimetre Wave Blockage Prediction For Vehicular Communication,"
   IEEE International Symposium on Telecommunication Technologies (ISTT), November 2022.
 
+- G. Amponis, T. Lagkas, D. Karampatzakis, P. R. Grammatikis, V. Argyriou, I. Moscholios, S. Goudos and P. Sarigiannidis,
+  "Efficient Peer-to-Peer Unicasting for VANET Architectures via Enhanced Monolithic Protocols,"
+  South-East Europe Design Automation, Computer Engineering, Computer Networks and Social Media Conference (SEEDA-CECNSM),
+  September 2022.
