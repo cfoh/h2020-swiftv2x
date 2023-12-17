@@ -6,6 +6,14 @@ Welcome to H2020 SwiftV2X Open Access Space. The following is a list of our publ
   International Conference on Information and Communication Technology Convergence (ICTC),
   October 2021.](https://openresearch.surrey.ac.uk/esploro/outputs/99602621202346#file-0)
 
+- G. Amponis, T. Lagkas, D. Karampatzakis, P. R. Grammatikis, V. Argyriou, I. Moscholios, S. Goudos and P. Sarigiannidis,
+  "Efficient Peer-to-Peer Unicasting for VANET Architectures via Enhanced Monolithic Protocols,"
+  South-East Europe Design Automation, Computer Engineering, Computer Networks and Social Media Conference (SEEDA-CECNSM),
+  September 2022.
+
+- F. S. Woon and C. Y. Leow, "Intelligent Reflecting Surfaces Aided Millimetre Wave Blockage Prediction For Vehicular Communication,"
+  IEEE International Symposium on Telecommunication Technologies (ISTT), November 2022.
+
 - [A. M. Cassillas, A. Kose, H. Lee, C. H. Foh and C. Y. Leow, "Contextual Multi-Armed Bandit based Beam Allocation in mmWave V2X Communication
   under Blockage," IEEE Conference on Vehicular Technology (VTC) Spring,
   June 2023.](https://github.com/cfoh/h2020-swiftv2x/blob/main/VTC2023-CMAB-BeamAllocation.pdf)
@@ -15,10 +23,3 @@ Welcome to H2020 SwiftV2X Open Access Space. The following is a list of our publ
   IEEE Malaysia International Conference on Communications (MICC),
   December 2023.](https://github.com/cfoh/h2020-swiftv2x/blob/main/2023323468.pdf)
 
-- F. S. Woon and C. Y. Leow, "Intelligent Reflecting Surfaces Aided Millimetre Wave Blockage Prediction For Vehicular Communication,"
-  IEEE International Symposium on Telecommunication Technologies (ISTT), November 2022.
-
-- G. Amponis, T. Lagkas, D. Karampatzakis, P. R. Grammatikis, V. Argyriou, I. Moscholios, S. Goudos and P. Sarigiannidis,
-  "Efficient Peer-to-Peer Unicasting for VANET Architectures via Enhanced Monolithic Protocols,"
-  South-East Europe Design Automation, Computer Engineering, Computer Networks and Social Media Conference (SEEDA-CECNSM),
-  September 2022.
