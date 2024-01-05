@@ -24,3 +24,7 @@ Welcome to H2020 SwiftV2X Open Access Space. The following is a list of our publ
   IEEE Malaysia International Conference on Communications (MICC), December 2023.
   [[Open Access]](https://github.com/cfoh/h2020-swiftv2x/blob/main/2023323468.pdf)
 
+- A. Kose, H. Lee, C. H. Foh, M. Shojafar, "Multi-Agent Context Learning Strategy for Interference-Aware
+  Beam Allocation in mmWave Vehicular Communications,"
+  to appear in IEEE Transactions on Intelligent Transportation Systems.
+  [[arxiv]](http://arxiv.org/abs/2401.02323)
