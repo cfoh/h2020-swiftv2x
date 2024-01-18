@@ -15,6 +15,7 @@ Welcome to H2020 SwiftV2X Open Access Space. The following is a list of our publ
 
 - F. S. Woon and C. Y. Leow, "Intelligent Reflecting Surfaces Aided Millimetre Wave Blockage Prediction For Vehicular Communication,"
   IEEE International Symposium on Telecommunication Technologies (ISTT), November 2022.
+  [[Open Access]](https://github.com/cfoh/h2020-swiftv2x/blob/main/a3-woon.pdf)
 
 - A. M. Cassillas, A. Kose, H. Lee, C. H. Foh and C. Y. Leow, "Contextual Multi-Armed Bandit based Beam Allocation in mmWave V2X Communication
   under Blockage," IEEE Conference on Vehicular Technology (VTC) Spring, June 2023.
