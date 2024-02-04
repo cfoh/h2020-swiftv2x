@@ -10,7 +10,7 @@ Welcome to H2020 SwiftV2X Open Access Space. The following is a list of our publ
   "Efficient Peer-to-Peer Unicasting for VANET Architectures via Enhanced Monolithic Protocols,"
   South-East Europe Design Automation, Computer Engineering, Computer Networks and Social Media Conference (SEEDA-CECNSM),
   September 2022.
-  - **[Deliverables 5.1]** [[Open Access 1]](https://www.researchgate.net/publication/365037998_Efficient_Peer-to-Peer_Unicasting_for_VANET_Architectures_via_Enhanced_Monolithic_Protocols?enrichId=rgreq-61a45c4bb6c8c0df43306fb43af65402-XXX&enrichSource=Y292ZXJQYWdlOzM2NTAzNzk5ODtBUzoxMTQzMTI4MTA5NDUwNTAzOEAxNjY3NDgzNDUxMzY0&el=1_x_2&_esc=publicationCoverPdf),
+  - **[Deliverable 5.1]** [[Open Access 1]](https://www.researchgate.net/publication/365037998_Efficient_Peer-to-Peer_Unicasting_for_VANET_Architectures_via_Enhanced_Monolithic_Protocols?enrichId=rgreq-61a45c4bb6c8c0df43306fb43af65402-XXX&enrichSource=Y292ZXJQYWdlOzM2NTAzNzk5ODtBUzoxMTQzMTI4MTA5NDUwNTAzOEAxNjY3NDgzNDUxMzY0&el=1_x_2&_esc=publicationCoverPdf),
   [[Open Access 2]](https://github.com/cfoh/h2020-swiftv2x/blob/main/Efficient%20Peer-to-Peer%20Unicasting%20for%20VANET%20Architectures%20via%20Enhanced%20Monolithic%20Protocols.pdf)
 
 - F. S. Woon and C. Y. Leow, "Intelligent Reflecting Surfaces Aided Millimetre Wave Blockage Prediction For Vehicular Communication,"
