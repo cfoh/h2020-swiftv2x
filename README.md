@@ -4,7 +4,7 @@ Welcome to H2020 SwiftV2X Open Access Space. The following is a list of our publ
 
 - A. Kose, C. H. Foh, H. Lee and K. Moessner, "Profiling Vehicles for Improved Small Cell Beam-Vehicle Pairing Using Multi-Armed Bandit,"
   International Conference on Information and Communication Technology Convergence (ICTC), October 2021.
-  - **[Deliverables 2.1, 5.1]** [[Open Access]](https://openresearch.surrey.ac.uk/esploro/outputs/99602621202346#file-0) 
+  - **[This work is the basis for investigation in Deliverables 2.1, 5.1]** [[Open Access]](https://openresearch.surrey.ac.uk/esploro/outputs/99602621202346#file-0) 
   
 - G. Amponis, T. Lagkas, D. Karampatzakis, P. R. Grammatikis, V. Argyriou, I. Moscholios, S. Goudos and P. Sarigiannidis,
   "Efficient Peer-to-Peer Unicasting for VANET Architectures via Enhanced Monolithic Protocols,"
