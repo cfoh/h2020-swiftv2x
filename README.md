@@ -1,6 +1,10 @@
 # H2020 SwiftV2X
 
-Welcome to H2020 SwiftV2X Open Access Space. The following is a list of our publications:
+Welcome to H2020 SwiftV2X Open Access Space. You can find our publications and organized invited talks/trainings in this repo.
+
+## Publiations
+
+The following is a list of our publications:
 
 - A. Kose, C. H. Foh, H. Lee and K. Moessner, "Profiling Vehicles for Improved Small Cell Beam-Vehicle Pairing Using Multi-Armed Bandit,"
   International Conference on Information and Communication Technology Convergence (ICTC), October 2021.
@@ -31,3 +35,15 @@ Welcome to H2020 SwiftV2X Open Access Space. The following is a list of our publ
   Beam Allocation in mmWave Vehicular Communications,"
   to appear in IEEE Transactions on Intelligent Transportation Systems.
   - [[arxiv]](http://arxiv.org/abs/2401.02323)
+
+## Invited Talks/Trainings
+
+- Professor Yan Zhang (University of Oslo, Norway), online keynote on "Machine Learning in Digital Twin Edge Networks" in DDINS 2022 workshop
+  (https://icc2022.ieee-icc.org/program/workshops.html#ws-22)
+- Professor Kin Leung (Imperial College London, UK), online keynote on "Management and Control of Communications Networks by Machine Learning" in DDINS 2022 workshop
+  (https://icc2022.ieee-icc.org/program/workshops.html#ws-22)
+- Professor Houbing Herbert Song (University of Maryland, US), a keynote on “AI on Security” in DDINS 2023 workshop
+  (https://icc2023.ieee-icc.org/workshop/ws-02-5th-workshop-data-driven-intelligence-networks-and-systems-ddins/program)
+- Professor Mardeni Roslee (Multimedia University, Malaysia), a tutorial on “Multi-objective genetic algorithm for V2V 6G communication networks” in IEEE MICC 2023 conference organized by UTM (https://micc2023.mycomvy.info)
+
+
