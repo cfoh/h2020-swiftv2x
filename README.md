@@ -47,4 +47,5 @@ The following is a list of our publications:
 - Professor Mardeni Roslee (Multimedia University, Malaysia), a tutorial on “Multi-objective genetic algorithm for V2V 6G communication networks” in IEEE MICC 2023 conference organized by UTM (https://micc2023.mycomvy.info)
 
 [//]: # (Professor Danda B. Rawat Howard University, US keynote on "Data Driven Wireless Virtualization for Enhancing Network Security, Capacity and Energy Efficiency in NextG Wireless Networks" in DDINS 2024 workshop)
+[//]: # (https://ddinsws.wordpress.com/ddins2024/speakers/)
 
