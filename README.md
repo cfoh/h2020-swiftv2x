@@ -13,23 +13,29 @@ The following is a list of our publications:
 - G. Amponis, T. Lagkas, D. Karampatzakis, P. R. Grammatikis, V. Argyriou, I. Moscholios, S. Goudos and P. Sarigiannidis,
   "Efficient Peer-to-Peer Unicasting for VANET Architectures via Enhanced Monolithic Protocols,"
   South-East Europe Design Automation, Computer Engineering, Computer Networks and Social Media Conference (SEEDA-CECNSM),
-  September 2022.
+  September 2022. doi: 10.1109/SEEDA-CECNSM57760.2022.9932897.
   - **[Deliverable 5.1]** [[Open Access 1]](https://www.researchgate.net/publication/365037998_Efficient_Peer-to-Peer_Unicasting_for_VANET_Architectures_via_Enhanced_Monolithic_Protocols?enrichId=rgreq-61a45c4bb6c8c0df43306fb43af65402-XXX&enrichSource=Y292ZXJQYWdlOzM2NTAzNzk5ODtBUzoxMTQzMTI4MTA5NDUwNTAzOEAxNjY3NDgzNDUxMzY0&el=1_x_2&_esc=publicationCoverPdf),
   [[Open Access 2]](https://github.com/cfoh/h2020-swiftv2x/blob/main/Efficient%20Peer-to-Peer%20Unicasting%20for%20VANET%20Architectures%20via%20Enhanced%20Monolithic%20Protocols.pdf)
+  - In proceeding: 2022 7th South-East Europe Design Automation, Computer Engineering, Computer Networks and Social Media Conference (SEEDA-CECNSM),
+    https://ieeexplore.ieee.org/xpl/conhome/9932892/proceeding
 
 - F. S. Woon and C. Y. Leow, "Intelligent Reflecting Surfaces Aided Millimetre Wave Blockage Prediction For Vehicular Communication,"
-  IEEE International Symposium on Telecommunication Technologies (ISTT), November 2022.
+  IEEE International Symposium on Telecommunication Technologies (ISTT), November 2022. doi: 10.1109/ISTT56288.2022.9966540.
   - **[Deliverable 3.1]** [[Open Access]](https://github.com/cfoh/h2020-swiftv2x/blob/main/a3-woon.pdf)
+  - In proceeding: 2022 IEEE 6th International Symposium on Telecommunication Technologies (ISTT),
+    https://ieeexplore.ieee.org/xpl/conhome/9966442/proceeding
 
 - A. M. Cassillas, A. Kose, H. Lee, C. H. Foh and C. Y. Leow, "Contextual Multi-Armed Bandit based Beam Allocation in mmWave V2X Communication
-  under Blockage," IEEE Conference on Vehicular Technology (VTC) Spring, June 2023.
+  under Blockage," IEEE Conference on Vehicular Technology (VTC) Spring, June 2023. doi: 10.1109/VTC2023-Spring57618.2023.10200248.
   - **[Deliverable 4.1]** [[Open Access 1]](https://researchprofiles.herts.ac.uk/en/publications/contextual-multi-armed-bandit-based-beam-allocation-in-mmwave-v2x),
   [[Open Access 2]](https://github.com/cfoh/h2020-swiftv2x/blob/main/VTC2023-CMAB-BeamAllocation.pdf)
+  - In proceeding: 2023 IEEE 97th Vehicular Technology Conference (VTC2023-Spring), https://ieeexplore.ieee.org/xpl/conhome/10199114/proceeding
 
 - S. Manic, C. H. Foh, A. Kose, H. Lee, C. Y. Leow, P. Chatzimisios, K. Moessner and C. Suthaputchakun,
   "Machine Learning based Beamwidth Adaptation for mmWave Vehicular Communications,"
   IEEE Malaysia International Conference on Communications (MICC), December 2023.
   - **[Deliverable 2.2]** [[Open Access]](https://github.com/cfoh/h2020-swiftv2x/blob/main/2023323468.pdf)
+  - In proceeding: 
 
 - A. Kose, H. Lee, C. H. Foh, M. Shojafar, "Multi-Agent Context Learning Strategy for Interference-Aware
   Beam Allocation in mmWave Vehicular Communications,"
