@@ -33,9 +33,9 @@ The following is a list of our publications:
 
 - S. Manic, C. H. Foh, A. Kose, H. Lee, C. Y. Leow, P. Chatzimisios, K. Moessner and C. Suthaputchakun,
   "Machine Learning based Beamwidth Adaptation for mmWave Vehicular Communications,"
-  IEEE Malaysia International Conference on Communications (MICC), December 2023.
+  IEEE Malaysia International Conference on Communications (MICC), December 2023. doi: 10.1109/MICC59384.2023.10419542.
   - **[Deliverable 2.2]** [[Open Access]](https://github.com/cfoh/h2020-swiftv2x/blob/main/2023323468.pdf)
-  - In proceeding: 
+  - In proceeding: 2023 IEEE 16th Malaysia International Conference on Communication (MICC), https://ieeexplore.ieee.org/xpl/conhome/10419378/proceeding
 
 - A. Kose, H. Lee, C. H. Foh, M. Shojafar, "Multi-Agent Context Learning Strategy for Interference-Aware
   Beam Allocation in mmWave Vehicular Communications,"
