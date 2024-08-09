@@ -39,8 +39,9 @@ The following is a list of our publications:
 
 - A. Kose, H. Lee, C. H. Foh, M. Shojafar, "Multi-Agent Context Learning Strategy for Interference-Aware
   Beam Allocation in mmWave Vehicular Communications,"
-  to appear in IEEE Transactions on Intelligent Transportation Systems.
+  IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 7, pp. 7477-7493, July 2024, doi: 10.1109/TITS.2024.3351488.
   - [[arxiv]](http://arxiv.org/abs/2401.02323)
+  - In IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 7, https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=10582787&punumber=6979
 
 ## Invited Talks/Trainings
 
@@ -51,7 +52,23 @@ The following is a list of our publications:
 - Professor Houbing Herbert Song (University of Maryland, US), a keynote on “Security of AI” in DDINS 2023 workshop
   (https://icc2023.ieee-icc.org/workshop/ws-02-5th-workshop-data-driven-intelligence-networks-and-systems-ddins/program)
 - Professor Mardeni Roslee (Multimedia University, Malaysia), a tutorial on “Multi-objective genetic algorithm for V2V 6G communication networks” in IEEE MICC 2023 conference organized by UTM (https://micc2023.mycomvy.info)
+- Professor Danda B. Rawat (Howard University, US), a keynote on "Data Driven Wireless Virtualization for Enhancing Network Security, Capacity and Energy Efficiency in NextG Wireless Networks" in DDINS 2024 workshop (https://ddinsws.wordpress.com/ddins2024/speakers/)
 
-[//]: # (Professor Danda B. Rawat Howard University, US keynote on "Data Driven Wireless Virtualization for Enhancing Network Security, Capacity and Energy Efficiency in NextG Wireless Networks" in DDINS 2024 workshop)
 [//]: # (https://ddinsws.wordpress.com/ddins2024/speakers/)
 
+## Result Dissemination
+- Invited talk on 5th June 2024 at IFIP Networking 2024, Greece
+  - Title: A New Multi-Agent Machine Learning Model for Cooperation in Competing Environment
+  - Presenter: Dr Chuan Heng Foh
+- Invited talk on 12th July 2024 at School of Electronics and Information Engineering, Beijing Jioatong University, China
+  - Title: A New Multi-Agent Machine Learning Framework for Cooperation in Competing Environment
+  - Presenter: Dr Chuan Heng Foh
+  - Organizer: Prof Deyun Gao
+- Invited talk on 15th July 2024 at School of Computer Science and Engineering, Xi'an Technological University, China
+  - Title: A New Multi-Agent Machine Learning Framework for Cooperation in Competing Environment
+  - Presenter: Dr Chuan Heng Foh
+  - Organizer: Prof Zijian Cao
+- Invited talk on 19th July 2024 at Department of Electronic Engineering, Hanyang University, South Korea
+  - Title: A New Multi-Agent Machine Learning Framework for Cooperation in Competing Environment
+  - Presenter: Dr Chuan Heng Foh
+  - Organizer: Prof Hichan Moon
