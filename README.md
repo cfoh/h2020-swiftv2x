@@ -21,7 +21,7 @@ The following is a list of our publications:
 
 - F. S. Woon and C. Y. Leow, "Intelligent Reflecting Surfaces Aided Millimetre Wave Blockage Prediction For Vehicular Communication,"
   IEEE International Symposium on Telecommunication Technologies (ISTT), November 2022. doi: 10.1109/ISTT56288.2022.9966540.
-  - **[Deliverable 3.1]** [[Open Access]](https://github.com/cfoh/h2020-swiftv2x/blob/main/a3-woon.pdf)
+  - **[This work is mentioned in Deliverable 3.1]** [[Open Access]](https://github.com/cfoh/h2020-swiftv2x/blob/main/a3-woon.pdf)
   - In proceeding: 2022 IEEE 6th International Symposium on Telecommunication Technologies (ISTT),
     https://ieeexplore.ieee.org/xpl/conhome/9966442/proceeding
 
