@@ -57,18 +57,30 @@ The following is a list of our publications:
 [//]: # (https://ddinsws.wordpress.com/ddins2024/speakers/)
 
 ## Result Dissemination
-- Invited talk on 5th June 2024 at IFIP Networking 2024, Greece
-  - Title: A New Multi-Agent Machine Learning Model for Cooperation in Competing Environment
-  - Presenter: Dr Chuan Heng Foh
-- Invited talk on 12th July 2024 at School of Electronics and Information Engineering, Beijing Jioatong University, China
-  - Title: A New Multi-Agent Machine Learning Framework for Cooperation in Competing Environment
-  - Presenter: Dr Chuan Heng Foh
-  - Organizer: Prof Deyun Gao
-- Invited talk on 15th July 2024 at School of Computer Science and Engineering, Xi'an Technological University, China
-  - Title: A New Multi-Agent Machine Learning Framework for Cooperation in Competing Environment
-  - Presenter: Dr Chuan Heng Foh
-  - Organizer: Prof Zijian Cao
+- Invited talk on 5th Sep  2024 at Department of Electronic and Electrical Engineering, University College London, UK
+  - Title1: Hybrid RIS and UAV Assisted Communication
+  - Presenter1: Assoc. Prof. Dr. Chee Yen Leow
+  - Title2: Implementation of RIS in Cellular Network and EMF Exposure Effect in Sub-6 GHz and Millimeter-Wave
+  - Presenter2: Assoc. Prof. Dr. Norhudah Seman
+  - Organizer: Prof Kai-Kit Wong
+- Invited talk on 6th Sep  2024 at Communications and Signal Processing Group, Imperial College London, UK
+  - Title1: Hybrid RIS and UAV Assisted Communication
+  - Presenter1: Assoc. Prof. Dr. Chee Yen Leow
+  - Title2: Implementation of RIS in Cellular Network and EMF Exposure Effect in Sub-6 GHz and Millimeter-Wave
+  - Presenter2: Assoc. Prof. Dr. Norhudah Seman
+  - Organizer: Prof Kin K Leung
 - Invited talk on 19th July 2024 at Department of Electronic Engineering, Hanyang University, South Korea
   - Title: A New Multi-Agent Machine Learning Framework for Cooperation in Competing Environment
   - Presenter: Dr Chuan Heng Foh
   - Organizer: Prof Hichan Moon
+- Invited talk on 15th July 2024 at School of Computer Science and Engineering, Xi'an Technological University, China
+  - Title: A New Multi-Agent Machine Learning Framework for Cooperation in Competing Environment
+  - Presenter: Dr Chuan Heng Foh
+  - Organizer: Prof Zijian Cao
+- Invited talk on 12th July 2024 at School of Electronics and Information Engineering, Beijing Jioatong University, China
+  - Title: A New Multi-Agent Machine Learning Framework for Cooperation in Competing Environment
+  - Presenter: Dr Chuan Heng Foh
+  - Organizer: Prof Deyun Gao
+- Invited talk on 5th June 2024 at IFIP Networking 2024, Greece
+  - Title: A New Multi-Agent Machine Learning Model for Cooperation in Competing Environment
+  - Presenter: Dr Chuan Heng Foh
