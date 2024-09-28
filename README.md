@@ -44,6 +44,12 @@ The following is a list of our publications:
   IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 7, pp. 7477-7493, July 2024, doi: 10.1109/TITS.2024.3351488.
   - [[arxiv]](http://arxiv.org/abs/2401.02323)
   - In IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 7, https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=10582787&punumber=6979
+  
+- C. Suthaputchakun, T. Li, C. H. Foh, Z. Sun, P. Chatzimisios, "MultiRAT DYMO: Enhanced Routing Protocols for VANETs,"
+  International Conference on Communication, Image and Signal Processing (CCISP), November 2024.
+  - [[Open Access]](https://github.com/cfoh/h2020-swiftv2x/blob/main/ccisp2024-routing.pdf)
+  - In proceeding: 2024 International Conference on Communication, Image and Signal Processing (CCISP).
+  
 
 ## Invited Talks/Trainings
 
