@@ -1,5 +1,7 @@
 # H2020 SwiftV2X
 
+[[Publications](#publications)] | [[Invited Talks/Trainings](#invited-talkstrainings)] | [[Result Dissemination](#result-dissemination)]
+
 Welcome to H2020 SwiftV2X Open Access Space. You can find our publications and organized invited talks/trainings in this repo.
 
 ## Publiations
