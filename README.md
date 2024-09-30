@@ -47,7 +47,7 @@ The following is a list of our publications:
   
 - C. Suthaputchakun, T. Li, C. H. Foh, Z. Sun, P. Chatzimisios, "MultiRAT DYMO: Enhanced Routing Protocols for VANETs,"
   International Conference on Communication, Image and Signal Processing (CCISP), November 2024.
-  - [[Open Access]](https://github.com/cfoh/h2020-swiftv2x/blob/main/ccisp2024-routing.pdf)
+  - **[Deliverable 4.2]** [[Open Access]](https://github.com/cfoh/h2020-swiftv2x/blob/main/ccisp2024-routing.pdf)
   - In proceeding: 2024 International Conference on Communication, Image and Signal Processing (CCISP).
   
 
