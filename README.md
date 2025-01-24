@@ -65,6 +65,14 @@ The following is a list of our publications:
 [//]: # (https://ddinsws.wordpress.com/ddins2024/speakers/)
 
 ## Result Dissemination
+- Invited talk on 16th December 2024 at School of Flexible Electronics (SoFE), at Sun Yat-sen University, China
+  - Title: A New Multi-Agent Machine Learning Model for Cooperation in Competing Environment
+  - Presenter: Dr Chuan Heng Foh
+  - Organizer: Prof Gaojie Chen
+- Invited talk on 13th December 2024 at Department of Electronic Engineering, City University of Hong Kong, China
+  - Title: A New Multi-Agent Machine Learning Model for Cooperation in Competing Environment
+  - Presenter: Dr Chuan Heng Foh
+  - Organizer: Dr Eric Wing-Ming Wong
 - Invited talk on 5th Sep  2024 at Department of Electronic and Electrical Engineering, University College London, UK
   - Title1: Hybrid RIS and UAV Assisted Communication
   - Presenter1: Assoc. Prof. Dr. Chee Yen Leow
@@ -92,3 +100,5 @@ The following is a list of our publications:
 - Invited talk on 5th June 2024 at IFIP Networking 2024, Greece
   - Title: A New Multi-Agent Machine Learning Model for Cooperation in Competing Environment
   - Presenter: Dr Chuan Heng Foh
+
+
