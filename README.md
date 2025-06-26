@@ -65,6 +65,14 @@ The following is a list of our publications:
 [//]: # (https://ddinsws.wordpress.com/ddins2024/speakers/)
 
 ## Result Dissemination
+- Invited talk on 10th June 2025 at MediaTek UK
+  - Title: A New Multi-Agent Machine Learning Framework for Cooperation in Competing Environment
+  - Presenter: Dr Chuan Heng Foh
+  - Organizer: Dr Ting Yang
+- Invited talk on 19th February 2025 at Department of Engineering Science, Oxford University, UK
+  - Title: Multi-Agent Context Learning Strategy for Interference-Aware Beam Allocation in mmWave Vehicular Communications
+  - Presenter: Dr Chuan Heng Foh
+  - Organizer: Prof Noa Zilberman
 - Invited talk on 16th December 2024 at School of Flexible Electronics (SoFE), at Sun Yat-sen University, China
   - Title: A New Multi-Agent Machine Learning Model for Cooperation in Competing Environment
   - Presenter: Dr Chuan Heng Foh
@@ -100,13 +108,3 @@ The following is a list of our publications:
 - Invited talk on 5th June 2024 at IFIP Networking 2024, Greece
   - Title: A New Multi-Agent Machine Learning Model for Cooperation in Competing Environment
   - Presenter: Dr Chuan Heng Foh
-- Invited talk on 19th February 2025 at Department of Engineering Science, Oxford University, UK
-  - Title: Multi-Agent Context Learning Strategy for Interference-Aware Beam Allocation in mmWave Vehicular Communications
-  - Presenter: Dr Chuan Heng Foh
-  - Organizer: Prof Noa Zilberman
-- Invited talk on 10th June 2025 at MediaTek UK
-  - Title: A New Multi-Agent Machine Learning Framework for Cooperation in Competing Environment
-  - Presenter: Dr Chuan Heng Foh
-  - Organizer: Dr Ting Yang
-
-
