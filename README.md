@@ -117,7 +117,7 @@ The following is a list of our publications:
   - This event is jointly organized by EU MSCA-SE TraceV2X Project
 
 [//]: # (https://ddinsws.wordpress.com/ddins2024/speakers/)
-[//]: # (D3.4, D5.3, D5.4)
+[//]: # (D3.4-training, D5.3-implementation, D5.4-implementation)
 
 ## Result Dissemination
 - Invited talk on 5th June 2024 at IFIP Networking 2024, Greece
