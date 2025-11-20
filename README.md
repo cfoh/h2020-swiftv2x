@@ -98,7 +98,7 @@ The following is a list of our publications:
 - C. Iliopoulos, A. Iossifides, C. H. Foh and P. Chatzimisios, "IEEE 802.11BD for
   Next-Generation V2X Communications: From Protocol to Services," IEEE Communications Standards
   Magazine, vol. 9, no. 2, pp. 88-98, June 2025, doi: 10.1109/MCOMSTD.2025.3569015.
-  - **[Contributed to Deliverable D1.4 (training)]**[[Open Access]](https://github.com/cfoh/h2020-swiftv2x/blob/main/COMSTD-24-00050_Proof_hi.pdf)
+  - **[Contributed to Deliverable D1.4 (training)]** [[Open Access]](https://github.com/cfoh/h2020-swiftv2x/blob/main/COMSTD-24-00050_Proof_hi.pdf)
   - In IEEE Communications Standards Magazine, vol. 9, no. 2
   
 
@@ -117,6 +117,7 @@ The following is a list of our publications:
   - This event is jointly organized by EU MSCA-SE TraceV2X Project
 
 [//]: # (https://ddinsws.wordpress.com/ddins2024/speakers/)
+[//]: # (D3.4, D5.3, D5.4)
 
 ## Result Dissemination
 - Invited talk on 5th June 2024 at IFIP Networking 2024, Greece
