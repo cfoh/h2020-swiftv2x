@@ -42,7 +42,7 @@ The following is a list of our publications:
 - A. Kose, H. Lee, C. H. Foh, M. Shojafar, "Multi-Agent Context Learning Strategy for Interference-Aware
   Beam Allocation in mmWave Vehicular Communications,"
   IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 7, pp. 7477-7493, July 2024, doi: 10.1109/TITS.2024.3351488.
-  - **[Deliverable 3.2]** [[arxiv]](http://arxiv.org/abs/2401.02323)
+  - **[Deliverables 3.2 and 5.2]** [[arxiv]](http://arxiv.org/abs/2401.02323)
   - In IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 7, https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=10582787&punumber=6979
 
 - C. Y. Goh, C. Y. Leow, C. H. Foh, I. Orikumhi, S. Kim and J. Wu, "Energy Efficient
@@ -69,7 +69,7 @@ The following is a list of our publications:
 
 - C. Suthaputchakun, T. Li, C. H. Foh, Z. Sun, P. Chatzimisios, "MultiRAT DYMO: Enhanced Routing Protocols for VANETs,"
   International Conference on Communication, Image and Signal Processing (CCISP), November 2024.
-  - **[Deliverable 4.2]** [[Open Access]](https://github.com/cfoh/h2020-swiftv2x/blob/main/ccisp2024-routing.pdf)
+  - **[Deliverables 4.2 and 5.2]** [[Open Access]](https://github.com/cfoh/h2020-swiftv2x/blob/main/ccisp2024-routing.pdf)
   - In proceeding: 2024 International Conference on Communication, Image and Signal Processing (CCISP).
 
 - C. Iliopoulos, A. Iossifides, C. H. Foh and P. Chatzimisios, "IEEE 802.11BD for
