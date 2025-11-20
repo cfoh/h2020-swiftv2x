@@ -11,15 +11,6 @@ The following is a list of our publications:
 - A. Kose, C. H. Foh, H. Lee and K. Moessner, "Profiling Vehicles for Improved Small Cell Beam-Vehicle Pairing Using Multi-Armed Bandit,"
   International Conference on Information and Communication Technology Convergence (ICTC), October 2021.
   - **[This work is the basis for investigation in Deliverables 2.1, 5.1]** [[Open Access]](https://openresearch.surrey.ac.uk/esploro/outputs/99602621202346#file-0) 
-  
-- G. Amponis, T. Lagkas, D. Karampatzakis, P. R. Grammatikis, V. Argyriou, I. Moscholios, S. Goudos and P. Sarigiannidis,
-  "Efficient Peer-to-Peer Unicasting for VANET Architectures via Enhanced Monolithic Protocols,"
-  South-East Europe Design Automation, Computer Engineering, Computer Networks and Social Media Conference (SEEDA-CECNSM),
-  September 2022. doi: 10.1109/SEEDA-CECNSM57760.2022.9932897.
-  - **[Deliverable 5.1]** [[Open Access 1]](https://www.researchgate.net/publication/365037998_Efficient_Peer-to-Peer_Unicasting_for_VANET_Architectures_via_Enhanced_Monolithic_Protocols?enrichId=rgreq-61a45c4bb6c8c0df43306fb43af65402-XXX&enrichSource=Y292ZXJQYWdlOzM2NTAzNzk5ODtBUzoxMTQzMTI4MTA5NDUwNTAzOEAxNjY3NDgzNDUxMzY0&el=1_x_2&_esc=publicationCoverPdf),
-  [[Open Access 2]](https://github.com/cfoh/h2020-swiftv2x/blob/main/Efficient%20Peer-to-Peer%20Unicasting%20for%20VANET%20Architectures%20via%20Enhanced%20Monolithic%20Protocols.pdf)
-  - In proceeding: 2022 7th South-East Europe Design Automation, Computer Engineering, Computer Networks and Social Media Conference (SEEDA-CECNSM),
-    https://ieeexplore.ieee.org/xpl/conhome/9932892/proceeding
 
 - F. S. Woon and C. Y. Leow, "Intelligent Reflecting Surfaces Aided Millimetre Wave Blockage Prediction For Vehicular Communication,"
   IEEE International Symposium on Telecommunication Technologies (ISTT), November 2022. doi: 10.1109/ISTT56288.2022.9966540.
@@ -29,21 +20,47 @@ The following is a list of our publications:
 
 - A. M. Cassillas, A. Kose, H. Lee, C. H. Foh and C. Y. Leow, "Contextual Multi-Armed Bandit based Beam Allocation in mmWave V2X Communication
   under Blockage," IEEE Conference on Vehicular Technology (VTC) Spring, June 2023. doi: 10.1109/VTC2023-Spring57618.2023.10200248.
-  - **[Deliverable 4.1]** [[Open Access 1]](https://researchprofiles.herts.ac.uk/en/publications/contextual-multi-armed-bandit-based-beam-allocation-in-mmwave-v2x),
+  - **[Contributed to Deliverable 4.1]** [[Open Access 1]](https://researchprofiles.herts.ac.uk/en/publications/contextual-multi-armed-bandit-based-beam-allocation-in-mmwave-v2x),
   [[Open Access 2]](https://github.com/cfoh/h2020-swiftv2x/blob/main/VTC2023-CMAB-BeamAllocation.pdf)
   - In proceeding: 2023 IEEE 97th Vehicular Technology Conference (VTC2023-Spring), https://ieeexplore.ieee.org/xpl/conhome/10199114/proceeding
+  
+- G. Amponis, T. Lagkas, D. Karampatzakis, P. R. Grammatikis, V. Argyriou, I. Moscholios, S. Goudos and P. Sarigiannidis,
+  "Efficient Peer-to-Peer Unicasting for VANET Architectures via Enhanced Monolithic Protocols,"
+  South-East Europe Design Automation, Computer Engineering, Computer Networks and Social Media Conference (SEEDA-CECNSM),
+  September 2022. doi: 10.1109/SEEDA-CECNSM57760.2022.9932897.
+  - **[Contributed to Deliverable 5.1]** [[Open Access 1]](https://www.researchgate.net/publication/365037998_Efficient_Peer-to-Peer_Unicasting_for_VANET_Architectures_via_Enhanced_Monolithic_Protocols?enrichId=rgreq-61a45c4bb6c8c0df43306fb43af65402-XXX&enrichSource=Y292ZXJQYWdlOzM2NTAzNzk5ODtBUzoxMTQzMTI4MTA5NDUwNTAzOEAxNjY3NDgzNDUxMzY0&el=1_x_2&_esc=publicationCoverPdf),
+  [[Open Access 2]](https://github.com/cfoh/h2020-swiftv2x/blob/main/Efficient%20Peer-to-Peer%20Unicasting%20for%20VANET%20Architectures%20via%20Enhanced%20Monolithic%20Protocols.pdf)
+  - In proceeding: 2022 7th South-East Europe Design Automation, Computer Engineering, Computer Networks and Social Media Conference (SEEDA-CECNSM),
+    https://ieeexplore.ieee.org/xpl/conhome/9932892/proceeding
 
 - S. Manic, C. H. Foh, A. Kose, H. Lee, C. Y. Leow, P. Chatzimisios, K. Moessner and C. Suthaputchakun,
   "Machine Learning based Beamwidth Adaptation for mmWave Vehicular Communications,"
   IEEE Malaysia International Conference on Communications (MICC), December 2023. doi: 10.1109/MICC59384.2023.10419542.
-  - **[Deliverable 2.2]** [[Open Access]](https://github.com/cfoh/h2020-swiftv2x/blob/main/2023323468.pdf)
+  - **[Contributed to Deliverable 2.2]** [[Open Access]](https://github.com/cfoh/h2020-swiftv2x/blob/main/2023323468.pdf)
   - In proceeding: 2023 IEEE 16th Malaysia International Conference on Communication (MICC), https://ieeexplore.ieee.org/xpl/conhome/10419378/proceeding
 
 - A. Kose, H. Lee, C. H. Foh, M. Shojafar, "Multi-Agent Context Learning Strategy for Interference-Aware
   Beam Allocation in mmWave Vehicular Communications,"
   IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 7, pp. 7477-7493, July 2024, doi: 10.1109/TITS.2024.3351488.
-  - **[Deliverables 3.2 and 5.2]** [[arxiv]](http://arxiv.org/abs/2401.02323)
+  - **[Contributed to Deliverables 3.2 and 5.2]** [[arxiv]](http://arxiv.org/abs/2401.02323)
   - In IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 7, https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=10582787&punumber=6979
+
+- C. Suthaputchakun, T. Li, C. H. Foh, Z. Sun, P. Chatzimisios, "MultiRAT DYMO: Enhanced Routing Protocols for VANETs,"
+  International Conference on Communication, Image and Signal Processing (CCISP), November 2024.
+  - **[Contributed to Deliverables 4.2 and 5.2]** [[Open Access]](https://github.com/cfoh/h2020-swiftv2x/blob/main/ccisp2024-routing.pdf)
+  - In proceeding: 2024 International Conference on Communication, Image and Signal Processing (CCISP).
+
+- S. B. S. Abdou, W. K. New, C. Y. Leow, S. Won, K. -K. Wong and Z. Ding, "Sum-Rate Maximization for
+  UAV Relay-Aided Fluid Antenna System with NOMA," IEEE International Symposium on Telecommunication
+  Technologies (ISTT), Langkawi Island, Malaysia, 2024, pp. 53-58, doi: 10.1109/ISTT63363.2024.10750660.
+  - **[Contributed to Deliverable 2.3]**
+  - In proceeding: 2024 IEEE 7th International Symposium on Telecommunication Technologies (ISTT)
+
+- N. Hashim, C. Y. Leow, K. Moessner and C. H. Foh, "Aerial Reconfigurable Intelligent Surface Assisted
+  Vehicle-to-Vehicle Communication," IEEE Access, vol. 13, pp. 169037-169048, 2025,
+  doi: 10.1109/ACCESS.2025.3606978.
+  - **[Contributed to Deliverable 4.3]** [[Open Access]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11153450)
+  - In IEEE Access, vol. 13
 
 - C. Y. Goh, C. Y. Leow, C. H. Foh, I. Orikumhi, S. Kim and J. Wu, "Energy Efficient
   Relay for Unmanned Aerial Vehicle with Onboard Hybrid Reconfigurable Intelligent
@@ -61,27 +78,11 @@ The following is a list of our publications:
   doi: 10.1109/ISTT63363.2024.10750606.
   - In proceeding: 2024 IEEE 7th International Symposium on Telecommunication Technologies (ISTT)
 
-- S. B. S. Abdou, W. K. New, C. Y. Leow, S. Won, K. -K. Wong and Z. Ding, "Sum-Rate Maximization for
-  UAV Relay-Aided Fluid Antenna System with NOMA," IEEE International Symposium on Telecommunication
-  Technologies (ISTT), Langkawi Island, Malaysia, 2024, pp. 53-58, doi: 10.1109/ISTT63363.2024.10750660.
-  - **[Deliverable 2.3]**
-  - In proceeding: 2024 IEEE 7th International Symposium on Telecommunication Technologies (ISTT)
-
 - W. K. New, C. Y. Leow, C. H. Foh, K. -K. Wong, H. Xu and F. R. Ghadi, "Coordinated
   Reconfigurable Intelligent Surface for Cellular-Connected UAV," IEEE International
   Symposium on Telecommunication Technologies (ISTT), Langkawi Island, Malaysia, 2024,
   pp. 42-47, doi: 10.1109/ISTT63363.2024.10750627.
   - In proceeding: 2024 IEEE 7th International Symposium on Telecommunication Technologies (ISTT)
-
-- C. Suthaputchakun, T. Li, C. H. Foh, Z. Sun, P. Chatzimisios, "MultiRAT DYMO: Enhanced Routing Protocols for VANETs,"
-  International Conference on Communication, Image and Signal Processing (CCISP), November 2024.
-  - **[Deliverables 4.2 and 5.2]** [[Open Access]](https://github.com/cfoh/h2020-swiftv2x/blob/main/ccisp2024-routing.pdf)
-  - In proceeding: 2024 International Conference on Communication, Image and Signal Processing (CCISP).
-
-- C. Iliopoulos, A. Iossifides, C. H. Foh and P. Chatzimisios, "IEEE 802.11BD for
-  Next-Generation V2X Communications: From Protocol to Services," IEEE Communications Standards
-  Magazine, vol. 9, no. 2, pp. 88-98, June 2025, doi: 10.1109/MCOMSTD.2025.3569015.
-  - In IEEE Communications Standards Magazine, vol. 9, no. 2
 
 - S. A. Abdulkareem, C. H. Foh, M. Shojafar, F. Carrez and K. Moessner, "Network Intrusion Detection:
   An IoT and Non IoT-Related Survey," IEEE Access, vol. 12, pp. 147167-147191, 2024,
@@ -94,12 +95,10 @@ The following is a list of our publications:
   - [[Open Access]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10587227)
   - In IEEE Access, vol. 12
 
-- N. Hashim, C. Y. Leow, K. Moessner and C. H. Foh, "Aerial Reconfigurable Intelligent Surface Assisted
-  Vehicle-to-Vehicle Communication," IEEE Access, vol. 13, pp. 169037-169048, 2025,
-  doi: 10.1109/ACCESS.2025.3606978.
-  - **[Deliverable 4.3]** [[Open Access]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11153450)
-  - In IEEE Access, vol. 13
-
+- C. Iliopoulos, A. Iossifides, C. H. Foh and P. Chatzimisios, "IEEE 802.11BD for
+  Next-Generation V2X Communications: From Protocol to Services," IEEE Communications Standards
+  Magazine, vol. 9, no. 2, pp. 88-98, June 2025, doi: 10.1109/MCOMSTD.2025.3569015.
+  - In IEEE Communications Standards Magazine, vol. 9, no. 2
   
 
 ## Invited Talks/Trainings
