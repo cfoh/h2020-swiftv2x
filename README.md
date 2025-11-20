@@ -45,9 +45,15 @@ The following is a list of our publications:
   - **[Deliverable 3.2]** [[arxiv]](http://arxiv.org/abs/2401.02323)
   - In IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 7, https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=10582787&punumber=6979
 
+- C. Y. Goh, C. Y. Leow, C. H. Foh, I. Orikumhi, S. Kim and J. Wu, "Energy Efficient
+  Relay for Unmanned Aerial Vehicle with Onboard Hybrid Reconfigurable Intelligent
+  Surfaces," IEEE International Conference on Communications, Denver, CO, USA, 2024, pp. 3452-3457,
+  doi: 10.1109/ICC51166.2024.10622939.
+  - In proceeding: 2024 IEEE International Conference on Communications (ICC)
+
 - H. Sakran, C. Lahoud and K. Moessner, "PAPR Reduction in OTFS Using Adaptive
   Interleaver Scheme with Low Complexity," European Wireless 2024, Brno, Czech Republic, 2024, pp. 103-108.
-  - In European Wireless 2024
+  - In proceeding: 2024 European Wireless
 
 - C. Y. Goh, C. Y. Leow, C. H. Foh, I. Orikumhi and S. Kim, "Hybrid Reconfigurable
   Intelligent Surfaces and Unmanned Aerial Vehicle Assisted Communication," IEEE 7th International
@@ -60,7 +66,7 @@ The following is a list of our publications:
   Symposium on Telecommunication Technologies (ISTT), Langkawi Island, Malaysia, 2024,
   pp. 42-47, doi: 10.1109/ISTT63363.2024.10750627.
   - In proceeding: 2024 IEEE 7th International Symposium on Telecommunication Technologies (ISTT)
-  
+
 - C. Suthaputchakun, T. Li, C. H. Foh, Z. Sun, P. Chatzimisios, "MultiRAT DYMO: Enhanced Routing Protocols for VANETs,"
   International Conference on Communication, Image and Signal Processing (CCISP), November 2024.
   - **[Deliverable 4.2]** [[Open Access]](https://github.com/cfoh/h2020-swiftv2x/blob/main/ccisp2024-routing.pdf)
