@@ -50,10 +50,16 @@ The following is a list of our publications:
   - In European Wireless 2024
 
 - C. Y. Goh, C. Y. Leow, C. H. Foh, I. Orikumhi and S. Kim, "Hybrid Reconfigurable
-  Intelligent Surfaces and Unmanned Aerial Vehicle Assisted Communication,"  IEEE 7th International
+  Intelligent Surfaces and Unmanned Aerial Vehicle Assisted Communication," IEEE 7th International
   Symposium on Telecommunication Technologies (ISTT), Langkawi Island, Malaysia, 2024, pp. 37-40,
   doi: 10.1109/ISTT63363.2024.10750606.
-  - In proceeding: 2023 IEEE 16th Malaysia International Conference on Communication (MICC),
+  - In proceeding: 2024 IEEE 7th International Symposium on Telecommunication Technologies (ISTT)
+
+- W. K. New, C. Y. Leow, C. H. Foh, K. -K. Wong, H. Xu and F. R. Ghadi, "Coordinated
+  Reconfigurable Intelligent Surface for Cellular-Connected UAV," IEEE 7th International
+  Symposium on Telecommunication Technologies (ISTT), Langkawi Island, Malaysia, 2024,
+  pp. 42-47, doi: 10.1109/ISTT63363.2024.10750627.
+  - In proceeding: 2024 IEEE 7th International Symposium on Telecommunication Technologies (ISTT)
   
 - C. Suthaputchakun, T. Li, C. H. Foh, Z. Sun, P. Chatzimisios, "MultiRAT DYMO: Enhanced Routing Protocols for VANETs,"
   International Conference on Communication, Image and Signal Processing (CCISP), November 2024.
