@@ -42,13 +42,40 @@ The following is a list of our publications:
 - A. Kose, H. Lee, C. H. Foh, M. Shojafar, "Multi-Agent Context Learning Strategy for Interference-Aware
   Beam Allocation in mmWave Vehicular Communications,"
   IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 7, pp. 7477-7493, July 2024, doi: 10.1109/TITS.2024.3351488.
-  - [[arxiv]](http://arxiv.org/abs/2401.02323)
+  - **[Deliverable 3.2]** [[arxiv]](http://arxiv.org/abs/2401.02323)
   - In IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 7, https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=10582787&punumber=6979
+
+- H. Sakran, C. Lahoud and K. Moessner, "PAPR Reduction in OTFS Using Adaptive
+  Interleaver Scheme with Low Complexity," European Wireless 2024, Brno, Czech Republic, 2024, pp. 103-108.
+  - In European Wireless 2024
   
 - C. Suthaputchakun, T. Li, C. H. Foh, Z. Sun, P. Chatzimisios, "MultiRAT DYMO: Enhanced Routing Protocols for VANETs,"
   International Conference on Communication, Image and Signal Processing (CCISP), November 2024.
   - **[Deliverable 4.2]** [[Open Access]](https://github.com/cfoh/h2020-swiftv2x/blob/main/ccisp2024-routing.pdf)
   - In proceeding: 2024 International Conference on Communication, Image and Signal Processing (CCISP).
+
+- C. Iliopoulos, A. Iossifides, C. H. Foh and P. Chatzimisios, "IEEE 802.11BD for
+  Next-Generation V2X Communications: From Protocol to Services," IEEE Communications Standards
+  Magazine, vol. 9, no. 2, pp. 88-98, June 2025, doi: 10.1109/MCOMSTD.2025.3569015.
+  - In IEEE Communications Standards Magazine, vol. 9, no. 2
+
+- S. A. Abdulkareem, C. Heng Foh, M. Shojafar, F. Carrez and K. Moessner, "Network Intrusion Detection:
+  An IoT and Non IoT-Related Survey," IEEE Access, vol. 12, pp. 147167-147191, 2024,
+  doi: 10.1109/ACCESS.2024.3473289.
+  - In IEEE Access, vol. 12
+
+- S. Jie Seah et al., "Empirical Channel Models for UAV Communication: A Comparative Study," IEEE Access,
+  vol. 12, pp. 96740-96756, 2024, doi: 10.1109/ACCESS.2024.3424544.
+  - In IEEE Access, vol. 12
+
+- N. Hashim, C. Y. Leow, K. Moessner and C. H. Foh, "Aerial Reconfigurable Intelligent Surface Assisted
+  Vehicle-to-Vehicle Communication," IEEE Access, vol. 13, pp. 169037-169048, 2025,
+  doi: 10.1109/ACCESS.2025.3606978.
+  - In IEEE Access, vol. 13
+
+
+
+
   
 
 ## Invited Talks/Trainings
