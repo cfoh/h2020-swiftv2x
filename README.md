@@ -62,15 +62,18 @@ The following is a list of our publications:
 - S. A. Abdulkareem, C. Heng Foh, M. Shojafar, F. Carrez and K. Moessner, "Network Intrusion Detection:
   An IoT and Non IoT-Related Survey," IEEE Access, vol. 12, pp. 147167-147191, 2024,
   doi: 10.1109/ACCESS.2024.3473289.
+  - [[Open Access]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10704655)
   - In IEEE Access, vol. 12
 
 - S. Jie Seah et al., "Empirical Channel Models for UAV Communication: A Comparative Study," IEEE Access,
   vol. 12, pp. 96740-96756, 2024, doi: 10.1109/ACCESS.2024.3424544.
+  - [[Open Access]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10587227)
   - In IEEE Access, vol. 12
 
 - N. Hashim, C. Y. Leow, K. Moessner and C. H. Foh, "Aerial Reconfigurable Intelligent Surface Assisted
   Vehicle-to-Vehicle Communication," IEEE Access, vol. 13, pp. 169037-169048, 2025,
   doi: 10.1109/ACCESS.2025.3606978.
+  - [[Open Access]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11153450)
   - In IEEE Access, vol. 13
 
 
