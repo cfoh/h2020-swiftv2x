@@ -59,7 +59,7 @@ The following is a list of our publications:
   Magazine, vol. 9, no. 2, pp. 88-98, June 2025, doi: 10.1109/MCOMSTD.2025.3569015.
   - In IEEE Communications Standards Magazine, vol. 9, no. 2
 
-- S. A. Abdulkareem, C. Heng Foh, M. Shojafar, F. Carrez and K. Moessner, "Network Intrusion Detection:
+- S. A. Abdulkareem, C. H. Foh, M. Shojafar, F. Carrez and K. Moessner, "Network Intrusion Detection:
   An IoT and Non IoT-Related Survey," IEEE Access, vol. 12, pp. 147167-147191, 2024,
   doi: 10.1109/ACCESS.2024.3473289.
   - [[Open Access]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10704655)
