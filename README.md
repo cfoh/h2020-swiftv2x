@@ -116,7 +116,7 @@ The following is a list of our publications:
 - Dr Mahdi Boloursaz Mashhadi (University of Surrey, UK), a keynote on "Goal-Oriented Generative Semantic Communications with V2X Applications" in DDINS 2025 workshop (https://ddinsws.wordpress.com/ddins2025/speakers/)
   - This event is jointly organized by EU MSCA-SE TraceV2X Project
 
-[//]: # (https://ddinsws.wordpress.com/ddins2024/speakers/) D3.4, D5.3, D5.4
+[//]: # (https://ddinsws.wordpress.com/ddins2024/speakers/)
 
 ## Result Dissemination
 - Invited talk on 5th June 2024 at IFIP Networking 2024, Greece
