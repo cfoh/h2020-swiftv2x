@@ -56,13 +56,19 @@ The following is a list of our publications:
   - In proceeding: 2024 European Wireless
 
 - C. Y. Goh, C. Y. Leow, C. H. Foh, I. Orikumhi and S. Kim, "Hybrid Reconfigurable
-  Intelligent Surfaces and Unmanned Aerial Vehicle Assisted Communication," IEEE 7th International
+  Intelligent Surfaces and Unmanned Aerial Vehicle Assisted Communication," IEEE International
   Symposium on Telecommunication Technologies (ISTT), Langkawi Island, Malaysia, 2024, pp. 37-40,
   doi: 10.1109/ISTT63363.2024.10750606.
   - In proceeding: 2024 IEEE 7th International Symposium on Telecommunication Technologies (ISTT)
 
+- S. B. S. Abdou, W. K. New, C. Y. Leow, S. Won, K. -K. Wong and Z. Ding, "Sum-Rate Maximization for
+  UAV Relay-Aided Fluid Antenna System with NOMA," IEEE International Symposium on Telecommunication
+  Technologies (ISTT), Langkawi Island, Malaysia, 2024, pp. 53-58, doi: 10.1109/ISTT63363.2024.10750660.
+  - **[Deliverable 2.3]**
+  - In proceeding: 2024 IEEE 7th International Symposium on Telecommunication Technologies (ISTT)
+
 - W. K. New, C. Y. Leow, C. H. Foh, K. -K. Wong, H. Xu and F. R. Ghadi, "Coordinated
-  Reconfigurable Intelligent Surface for Cellular-Connected UAV," IEEE 7th International
+  Reconfigurable Intelligent Surface for Cellular-Connected UAV," IEEE International
   Symposium on Telecommunication Technologies (ISTT), Langkawi Island, Malaysia, 2024,
   pp. 42-47, doi: 10.1109/ISTT63363.2024.10750627.
   - In proceeding: 2024 IEEE 7th International Symposium on Telecommunication Technologies (ISTT)
@@ -91,11 +97,8 @@ The following is a list of our publications:
 - N. Hashim, C. Y. Leow, K. Moessner and C. H. Foh, "Aerial Reconfigurable Intelligent Surface Assisted
   Vehicle-to-Vehicle Communication," IEEE Access, vol. 13, pp. 169037-169048, 2025,
   doi: 10.1109/ACCESS.2025.3606978.
-  - [[Open Access]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11153450)
+  - **[Deliverable 4.3]** [[Open Access]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11153450)
   - In IEEE Access, vol. 13
-
-
-
 
   
 
