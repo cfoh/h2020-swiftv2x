@@ -56,6 +56,9 @@ The following is a list of our publications:
   - **[Contributed to D2.3 (design)]**
   - In proceeding: 2024 IEEE 7th International Symposium on Telecommunication Technologies (ISTT)
 
+- U. Yigit, et al. "AI Explainability for Adaptive mmWave Beam Configuration in Dynamic Vehicular Environments"
+  submitted. **[Contributed to D3.3 (design) and D5.3 (implementation)]**
+
 - N. Hashim, C. Y. Leow, K. Moessner and C. H. Foh, "Aerial Reconfigurable Intelligent Surface Assisted
   Vehicle-to-Vehicle Communication," IEEE Access, vol. 13, pp. 169037-169048, 2025,
   doi: 10.1109/ACCESS.2025.3606978.
@@ -104,13 +107,16 @@ The following is a list of our publications:
 
 ## Invited Talks/Trainings
 
+- Prof Periklis Chatzimisios (IHU), online tutorial on "5G Communications for Vehicle-to-Everything (V2X) and Autonomous Driving" on 21-January-2022
+  in the Moscow Telecommunication Seminar
+- Dr Chuan Heng Foh (University of Surrey, UK), online tutorial on "6G Technology in Vehicle Communications" on 21-February-2022 to Bangkok University.
 - Professor Yan Zhang (University of Oslo, Norway), online keynote on "Machine Learning in Digital Twin Edge Networks" in DDINS 2022 workshop
   (https://icc2022.ieee-icc.org/program/workshops.html#ws-22)
 - Professor Kin Leung (Imperial College London, UK), online keynote on "Management and Control of Communications Networks by Machine Learning" in DDINS 2022 workshop
   (https://icc2022.ieee-icc.org/program/workshops.html#ws-22)
 - Professor Houbing Herbert Song (University of Maryland, US), a keynote on “Security of AI” in DDINS 2023 workshop
   (https://icc2023.ieee-icc.org/workshop/ws-02-5th-workshop-data-driven-intelligence-networks-and-systems-ddins/program)
-- Dr Sahab Ehsan-Far (Technische Universität Chemnitz (TUC)), tutorial on "V2X technology and the role of mmWave technology" on 4-April-2023 in TUC **[Contributed to D3.4 (training)]**
+- Dr Sahab Ehsan-Far (Technische Universität Chemnitz (TUC)), tutorial on "V2X technology and the role of mmWave technology" on 4-April-2023 in Thessaloniki, Greece **[Contributed to D3.4 (training)]**
 - Professor Mardeni Roslee (Multimedia University, Malaysia), a tutorial on “Multi-objective genetic algorithm for V2V 6G communication networks” in IEEE MICC 2023 conference organized by UTM (https://micc2023.mycomvy.info)
 - Professor Danda B. Rawat (Howard University, US), a keynote on "Data Driven Wireless Virtualization for Enhancing Network Security, Capacity and Energy Efficiency in NextG Wireless Networks" in DDINS 2024 workshop (https://ddinsws.wordpress.com/ddins2024/speakers/)
   - This event is jointly organized by EU MSCA-SE TraceV2X Project
@@ -118,9 +124,10 @@ The following is a list of our publications:
   - This event is jointly organized by EU MSCA-SE TraceV2X Project
 
 [//]: # (https://ddinsws.wordpress.com/ddins2024/speakers/)
-[//]: # (D3.4-training, D5.3-implementation, D5.4-implementation)
+[//]: # (D5.4-implementation)
 
 ## Result Dissemination
+
 - Invited talk on 5th June 2024 at IFIP Networking 2024, Greece
   - Title: A New Multi-Agent Machine Learning Model for Cooperation in Competing Environment
   - Presenter: Dr Chuan Heng Foh **[Contributed to D2.4 (training)]**
