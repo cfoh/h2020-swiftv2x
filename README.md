@@ -62,7 +62,6 @@ The following is a list of our publications:
 - N. Hashim, C. Y. Leow, K. Moessner and C. H. Foh, "Aerial Reconfigurable Intelligent Surface Assisted
   Vehicle-to-Vehicle Communication," IEEE Access, vol. 13, pp. 169037-169048, 2025,
   doi: 10.1109/ACCESS.2025.3606978.
-  - Contributed to the promotion of multi-hop relay technology using UAVs
   - **[Contributed to D4.3 (design)]** [[Open Access]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11153450)
   - In IEEE Access, vol. 13
 
@@ -70,45 +69,44 @@ The following is a list of our publications:
   Relay for Unmanned Aerial Vehicle with Onboard Hybrid Reconfigurable Intelligent
   Surfaces," IEEE International Conference on Communications, Denver, CO, USA, 2024, pp. 3452-3457,
   doi: 10.1109/ICC51166.2024.10622939.
-  - Contributed to the promotion of multi-hop relay technology using UAVs
+  - [Contributed to the promotion of multi-hop relay technology using UAVs]
   - In proceeding: 2024 IEEE International Conference on Communications (ICC)
 
 - H. Sakran, C. Lahoud and K. Moessner, "PAPR Reduction in OTFS Using Adaptive
   Interleaver Scheme with Low Complexity," European Wireless 2024, Brno, Czech Republic, 2024, pp. 103-108.
-  - Contributed to our effort in orthogonal time frequency space (OTFS) technology to mitigate issues in OFDM systems for high mobility support
+  - [Contributed to our effort in orthogonal time frequency space (OTFS) technology to mitigate issues in OFDM systems for high mobility support]
   - In proceeding: 2024 European Wireless
 
 - C. Y. Goh, C. Y. Leow, C. H. Foh, I. Orikumhi and S. Kim, "Hybrid Reconfigurable
   Intelligent Surfaces and Unmanned Aerial Vehicle Assisted Communication," IEEE International
   Symposium on Telecommunication Technologies (ISTT), Langkawi Island, Malaysia, 2024, pp. 37-40,
   doi: 10.1109/ISTT63363.2024.10750606.
-  - Contributed to the promotion of multi-hop relay technology using UAVs
+  - [Contributed to the promotion of multi-hop relay technology using UAVs]
   - In proceeding: 2024 IEEE 7th International Symposium on Telecommunication Technologies (ISTT)
 
 - W. K. New, C. Y. Leow, C. H. Foh, K. -K. Wong, H. Xu and F. R. Ghadi, "Coordinated
   Reconfigurable Intelligent Surface for Cellular-Connected UAV," IEEE International
   Symposium on Telecommunication Technologies (ISTT), Langkawi Island, Malaysia, 2024,
   pp. 42-47, doi: 10.1109/ISTT63363.2024.10750627.
-  - Contributed to the promotion of multi-hop relay technology using UAVs
+  - [Contributed to the promotion of multi-hop relay technology using UAVs]
   - In proceeding: 2024 IEEE 7th International Symposium on Telecommunication Technologies (ISTT)
 
 - S. A. Abdulkareem, C. H. Foh, M. Shojafar, F. Carrez and K. Moessner, "Network Intrusion Detection:
   An IoT and Non IoT-Related Survey," IEEE Access, vol. 12, pp. 147167-147191, 2024,
   doi: 10.1109/ACCESS.2024.3473289.
-  - Contributed to security aspect of Internet of Things (IoT) and Internet of Vehicules (IoV)
+  - [Contributed to security aspect of Internet of Things (IoT) and Internet of Vehicules (IoV)]
   - [[Open Access]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10704655)
   - In IEEE Access, vol. 12
 
 - S. Jie Seah et al., "Empirical Channel Models for UAV Communication: A Comparative Study," IEEE Access,
   vol. 12, pp. 96740-96756, 2024, doi: 10.1109/ACCESS.2024.3424544.
-  - Contributed to the promotion of multi-hop relay technology using UAVs
+  - [Contributed to the promotion of multi-hop relay technology using UAVs]
   - [[Open Access]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10587227)
   - In IEEE Access, vol. 12
 
 - C. Iliopoulos, A. Iossifides, C. H. Foh and P. Chatzimisios, "IEEE 802.11BD for
   Next-Generation V2X Communications: From Protocol to Services," IEEE Communications Standards
   Magazine, vol. 9, no. 2, pp. 88-98, June 2025, doi: 10.1109/MCOMSTD.2025.3569015.
-  - Contributed to the promotion of IEEE 802.11bd standards
   - **[Contributed to D1.4 (training)]** [[Open Access]](https://github.com/cfoh/h2020-swiftv2x/blob/main/COMSTD-24-00050_Proof_hi.pdf)
   - In IEEE Communications Standards Magazine, vol. 9, no. 2
   
