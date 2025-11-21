@@ -104,11 +104,11 @@ The following is a list of our publications:
   - [[Open Access]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10587227)
   - In IEEE Access, vol. 12
 
-- C. Iliopoulos, A. Iossifides, C. H. Foh and P. Chatzimisios, "IEEE 802.11BD for
+- C. Iliopoulos, A. Iossifides, C. H. Foh and P. Chatzimisios, "IEEE 802.11bd for
   Next-Generation V2X Communications: From Protocol to Services," IEEE Communications Standards
   Magazine, vol. 9, no. 2, pp. 88-98, June 2025, doi: 10.1109/MCOMSTD.2025.3569015.
   - **[Contributed to D1.4 (training)]** [[Open Access]](https://github.com/cfoh/h2020-swiftv2x/blob/main/COMSTD-24-00050_Proof_hi.pdf)
-  - In IEEE Communications Standards Magazine, vol. 9, no. 2
+  - In IEEE Communications Standards Magazine, vol. 9, no. 2, https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=11045342
   
 
 ## Invited Talks/Trainings
