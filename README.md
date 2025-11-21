@@ -4,7 +4,7 @@
 
 Welcome to H2020 SwiftV2X Open Access Space. You can find our publications and organized invited talks/trainings in this repo.
 
-## Publiations
+## Publications
 
 The following is a list of our publications:
 
