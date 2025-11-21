@@ -6,7 +6,7 @@ Welcome to H2020 SwiftV2X Open Access Space. You can find our publications and o
 
 ## Publications
 
-The following is a list of our publications:
+The following is a list of our publications and our result presentation in conferences/workshops:
 
 - A. Kose, C. H. Foh, H. Lee and K. Moessner, "Profiling Vehicles for Improved Small Cell Beam-Vehicle Pairing Using Multi-Armed Bandit,"
   International Conference on Information and Communication Technology Convergence (ICTC), October 2021.
@@ -111,7 +111,7 @@ The following is a list of our publications:
   - In IEEE Communications Standards Magazine, vol. 9, no. 2, https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=11045342
   
 
-## Invited Talks/Trainings
+## Public Invited Talks/Trainings
 
 - Prof Periklis Chatzimisios (IHU), online tutorial on "5G Communications for Vehicle-to-Everything (V2X) and Autonomous Driving" on 21-January-2022
   in the Moscow Telecommunication Seminar
