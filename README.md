@@ -89,7 +89,7 @@ The following is a list of our publications and our result presentation in confe
   Reconfigurable Intelligent Surface for Cellular-Connected UAV," IEEE International
   Symposium on Telecommunication Technologies (ISTT), Langkawi Island, Malaysia, 2024,
   pp. 42-47, doi: 10.1109/ISTT63363.2024.10750627.
-  - [Contributed to the promotion of multi-hop relay technology using UAVs]
+  - [Contributed to the promotion of multi-hop relay technology using UAVs] [[Open Access]](https://github.com/cfoh/h2020-swiftv2x/blob/main/a8-new%20final.pdf)
   - In proceeding: 2024 IEEE 7th International Symposium on Telecommunication Technologies (ISTT), https://ieeexplore.ieee.org/xpl/conhome/10750540/proceeding
 
 - S. A. Abdulkareem, C. H. Foh, M. Shojafar, F. Carrez and K. Moessner, "Network Intrusion Detection:
