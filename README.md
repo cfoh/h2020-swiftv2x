@@ -178,3 +178,7 @@ The following is a list of our publications and our result presentation in confe
   - Title: A New Multi-Agent Machine Learning Framework for Cooperation in Competing Environment
   - Presenter: Dr Chuan Heng Foh
   - Organizer: Dr Ting Yang
+- Invited talk on 16th July 2025 at FKAB, Universiti Kebangasaan Malaysia
+  - Title: Multi-Agent Context Learning Strategy for Interference-Aware Beam Allocation in mmWave Vehicular Communications
+  - Presenter: Dr Chuan Heng Foh
+  - Organizer: Dr Nor Fadzilah Abdullah
