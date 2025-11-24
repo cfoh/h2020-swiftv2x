@@ -48,13 +48,13 @@ The following is a list of our publications and our result presentation in confe
 - C. Suthaputchakun, T. Li, C. H. Foh, Z. Sun, P. Chatzimisios, "MultiRAT DYMO: Enhanced Routing Protocols for VANETs,"
   International Conference on Communication, Image and Signal Processing (CCISP), November 2024.
   - **[Contributed to D4.2 (design), D4.4 (training) and D5.2 (implementation)]** [[Open Access]](https://github.com/cfoh/h2020-swiftv2x/blob/main/ccisp2024-routing.pdf)
-  - In proceeding: 2024 International Conference on Communication, Image and Signal Processing (CCISP).
+  - In proceeding: 2024 International Conference on Communication, Image and Signal Processing (CCISP), https://ieeexplore.ieee.org/xpl/conhome/10765361/proceeding
 
 - S. B. S. Abdou, W. K. New, C. Y. Leow, S. Won, K. -K. Wong and Z. Ding, "Sum-Rate Maximization for
   UAV Relay-Aided Fluid Antenna System with NOMA," IEEE International Symposium on Telecommunication
   Technologies (ISTT), Langkawi Island, Malaysia, 2024, pp. 53-58, doi: 10.1109/ISTT63363.2024.10750660.
   - **[Contributed to D2.3 (design)]**
-  - In proceeding: 2024 IEEE 7th International Symposium on Telecommunication Technologies (ISTT)
+  - In proceeding: 2024 IEEE 7th International Symposium on Telecommunication Technologies (ISTT), https://ieeexplore.ieee.org/xpl/conhome/10750540/proceeding
 
 - U. Yigit, et al. "AI Explainability for Adaptive mmWave Beam Configuration in Dynamic Vehicular Environments"
   submitted. **[Contributed to D3.3 (design) and D5.3 (implementation)]**
@@ -63,7 +63,7 @@ The following is a list of our publications and our result presentation in confe
   Vehicle-to-Vehicle Communication," IEEE Access, vol. 13, pp. 169037-169048, 2025,
   doi: 10.1109/ACCESS.2025.3606978.
   - **[Contributed to D4.3 (design)]** [[Open Access]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11153450)
-  - In IEEE Access, vol. 13
+  - In IEEE Access, vol. 13, https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=10820123
 
 - C. Y. Goh, C. Y. Leow, C. H. Foh, I. Orikumhi, S. Kim and J. Wu, "Energy Efficient
   Relay for Unmanned Aerial Vehicle with Onboard Hybrid Reconfigurable Intelligent
@@ -71,26 +71,26 @@ The following is a list of our publications and our result presentation in confe
   doi: 10.1109/ICC51166.2024.10622939.
   - [Contributed to the promotion of multi-hop relay technology using UAVs]
     [[Open Access]](https://github.com/cfoh/h2020-swiftv2x/blob/main/a587-goh%20final.pdf)
-  - In proceeding: 2024 IEEE International Conference on Communications (ICC)
+  - In proceeding: 2024 IEEE International Conference on Communications (ICC), https://ieeexplore.ieee.org/xpl/conhome/10622104/proceeding
 
 - H. Sakran, C. Lahoud and K. Moessner, "PAPR Reduction in OTFS Using Adaptive
   Interleaver Scheme with Low Complexity," European Wireless 2024, Brno, Czech Republic, 2024, pp. 103-108.
   - [Contributed to our effort in orthogonal time frequency space (OTFS) technology to mitigate issues in OFDM systems for high mobility support]
-  - In proceeding: 2024 European Wireless
+  - In proceeding: 2024 European Wireless, https://ieeexplore.ieee.org/xpl/conhome/10925847/proceeding
 
 - C. Y. Goh, C. Y. Leow, C. H. Foh, I. Orikumhi and S. Kim, "Hybrid Reconfigurable
   Intelligent Surfaces and Unmanned Aerial Vehicle Assisted Communication," IEEE International
   Symposium on Telecommunication Technologies (ISTT), Langkawi Island, Malaysia, 2024, pp. 37-40,
   doi: 10.1109/ISTT63363.2024.10750606.
   - [Contributed to the promotion of multi-hop relay technology using UAVs]
-  - In proceeding: 2024 IEEE 7th International Symposium on Telecommunication Technologies (ISTT)
+  - In proceeding: 2024 IEEE 7th International Symposium on Telecommunication Technologies (ISTT), https://ieeexplore.ieee.org/xpl/conhome/10750540/proceeding
 
 - W. K. New, C. Y. Leow, C. H. Foh, K. -K. Wong, H. Xu and F. R. Ghadi, "Coordinated
   Reconfigurable Intelligent Surface for Cellular-Connected UAV," IEEE International
   Symposium on Telecommunication Technologies (ISTT), Langkawi Island, Malaysia, 2024,
   pp. 42-47, doi: 10.1109/ISTT63363.2024.10750627.
   - [Contributed to the promotion of multi-hop relay technology using UAVs]
-  - In proceeding: 2024 IEEE 7th International Symposium on Telecommunication Technologies (ISTT)
+  - In proceeding: 2024 IEEE 7th International Symposium on Telecommunication Technologies (ISTT), https://ieeexplore.ieee.org/xpl/conhome/10750540/proceeding
 
 - S. A. Abdulkareem, C. H. Foh, M. Shojafar, F. Carrez and K. Moessner, "Network Intrusion Detection:
   An IoT and Non IoT-Related Survey," IEEE Access, vol. 12, pp. 147167-147191, 2024,
