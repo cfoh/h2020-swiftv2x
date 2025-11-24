@@ -82,7 +82,7 @@ The following is a list of our publications and our result presentation in confe
   Intelligent Surfaces and Unmanned Aerial Vehicle Assisted Communication," IEEE International
   Symposium on Telecommunication Technologies (ISTT), Langkawi Island, Malaysia, 2024, pp. 37-40,
   doi: 10.1109/ISTT63363.2024.10750606.
-  - [Contributed to the promotion of multi-hop relay technology using UAVs]
+  - [Contributed to the promotion of multi-hop relay technology using UAVs] [[Open Access]](https://github.com/cfoh/h2020-swiftv2x/blob/main/a7-goh%20final.pdf)
   - In proceeding: 2024 IEEE 7th International Symposium on Telecommunication Technologies (ISTT), https://ieeexplore.ieee.org/xpl/conhome/10750540/proceeding
 
 - W. K. New, C. Y. Leow, C. H. Foh, K. -K. Wong, H. Xu and F. R. Ghadi, "Coordinated
