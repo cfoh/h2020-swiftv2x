@@ -70,6 +70,7 @@ The following is a list of our publications and our result presentation in confe
   Surfaces," IEEE International Conference on Communications, Denver, CO, USA, 2024, pp. 3452-3457,
   doi: 10.1109/ICC51166.2024.10622939.
   - [Contributed to the promotion of multi-hop relay technology using UAVs]
+    [[Open Access]](https://github.com/cfoh/h2020-swiftv2x/blob/main/a587-goh%20final.pdf)
   - In proceeding: 2024 IEEE International Conference on Communications (ICC)
 
 - H. Sakran, C. Lahoud and K. Moessner, "PAPR Reduction in OTFS Using Adaptive
