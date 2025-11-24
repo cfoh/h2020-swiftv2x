@@ -96,13 +96,13 @@ The following is a list of our publications and our result presentation in confe
   doi: 10.1109/ACCESS.2024.3473289.
   - [Contributed to security aspect of Internet of Things (IoT) and Internet of Vehicules (IoV)]
   - [[Open Access]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10704655)
-  - In IEEE Access, vol. 12
+  - In IEEE Access, vol. 12, https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=10380310
 
 - S. Jie Seah et al., "Empirical Channel Models for UAV Communication: A Comparative Study," IEEE Access,
   vol. 12, pp. 96740-96756, 2024, doi: 10.1109/ACCESS.2024.3424544.
   - [Contributed to the promotion of multi-hop relay technology using UAVs]
   - [[Open Access]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10587227)
-  - In IEEE Access, vol. 12
+  - In IEEE Access, vol. 12, https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=10380310
 
 - C. Iliopoulos, A. Iossifides, C. H. Foh and P. Chatzimisios, "IEEE 802.11bd for
   Next-Generation V2X Communications: From Protocol to Services," IEEE Communications Standards
